@@ -787,3 +787,5 @@ Trên đây là một git flow cơ bản, tùy dự án sẽ có một số bran
      Ví dụ mình code ở branch **feature/Login**, để hạn chế việc xử lý conflict khi mình tiến hành merge **feature/Login** vào **develop** thì trong quá trình mình code, mình thường hay `git pull origin develop` để code của mình luôn mới.
 
    - Khi xuất hiện conflict thì hãy lựa chọn các option một cách cẩn thận, nên xem xét kêu gọi những người liên quan đến conflict để cùng giải quyết.
+
+  3
